@@ -11,7 +11,6 @@
     "rootDir": "./src",
     "resolveJsonModule": true,
     "declaration": true,
-    "declarationMap": true,
     "sourceMap": true
   },
   "include": [
